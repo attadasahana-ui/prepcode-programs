@@ -1,3 +1,5 @@
 print("num of apples")
 apples = int(input())
-p
+print("num of children")
+children = int(input())
+print("apples to each child", apples/children)
